@@ -249,19 +249,6 @@
          "tilecount":850,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":60,
-         "firstgid":2683,
-         "image":"..\/..\/..\/Desktop\/Tilesets\/Pipoya RPG Tileset 32x32\/SampleMap\/samplemap.png",
-         "imageheight":1920,
-         "imagewidth":1920,
-         "margin":0,
-         "name":"samplemap",
-         "spacing":0,
-         "tilecount":3600,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
