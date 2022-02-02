@@ -249,6 +249,10 @@
          "tilecount":850,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "firstgid":2683,
+         "source":"..\/..\/..\/Desktop\/Tilesets\/Pipoya RPG Tileset 32x32\/SampleMap\/[Base]BaseChip_pipo.tsx"
         }],
  "tilewidth":32,
  "type":"map",
